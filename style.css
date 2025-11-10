@@ -1,0 +1,18 @@
+h1, h2, .navbar-brand {
+    font-family: Georgia, serif;
+    color: #38761d;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #e6ffe6;
+    border-color: #38761d;
+    color: #38761d;
+}
+
+.tab-content {
+    background-color: #ffffff;
+}
+
+.list-group-item {
+    background-color: #f0fff0;
+}
